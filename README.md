@@ -1,0 +1,2 @@
+# DictionaryApp
+Sözlük Uygulaması
